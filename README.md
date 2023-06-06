@@ -13,11 +13,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is the first project of my Udacity's DataScience Nanodegree program. For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+This is the first project of my Udacity's DataScience Nanodegree program. For this project, I was interestested in using Stack Overflow data from 2017 to better understand these 3 questions:
 
 1. There was a gender breach salary in 2017?
 2. Remote Work were a trending in 2017?
-3. Which are the most common languages in 2017 how they were rewarded in terms of salary?
+3. Which are the most common languages in 2017, how they were rewarded in terms of salary?
 
 ## File Descriptions <a name="files"></a>
 
