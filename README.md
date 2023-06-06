@@ -15,13 +15,13 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This is the first project of my Udacity's DataScience Nanodegree program. For this project, I was interestested in using Stack Overflow data from 2017 to better understand these 3 questions:
 
-1. There was a gender breach salary in 2017?
-2. Remote Work were a trending in 2017?
-3. Which are the most common languages in 2017, how they were rewarded in terms of salary?
+ 1. There is a gender breach salary?
+ 2. Remote Workers are more satisfied with their jobs than on site workers?
+ 3. Which are the most common languages and how they are rewarded in terms of salary?
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 Jupyter notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the motivation project.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 Jupyter notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the motivation project.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>
