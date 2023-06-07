@@ -26,7 +26,7 @@ There is 1 Jupyter notebook available here to showcase work related to the above
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](URL).
+The main findings of the code can be found at the post available [here](https://medium.com/@juandiegocuellar02/how-was-the-tech-field-in-2017-in-terms-of-breach-salary-remote-working-and-languages-caa07d56fc8c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
